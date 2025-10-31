@@ -2,7 +2,7 @@
 
 ---
 
-## PS
+## 1. `PS`
 
 - `ps` -> Muestra la información de los procesos activos
 - `ps au` -> Muestra procesos de todos los usuarios en formato extendido
