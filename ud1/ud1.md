@@ -2,9 +2,9 @@
 ---
 
 ## Índice
-## [Ir a comando PS](#1-ps)
-## [Ir a comando TOP](#2-top)
-## [Ir a comando HTOP](#3-htop)
+### [Ir a comando PS](#1-ps)
+### [Ir a comando TOP](#2-top)
+### [Ir a comando HTOP](#3-htop)
 
 ---
 
