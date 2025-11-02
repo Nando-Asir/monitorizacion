@@ -2,7 +2,9 @@
 ---
 
 ## Índice
-## [Ir a PS](#1.-ps)
+## [Ir a PS](#1-ps)
+## [Ir a PS](#2-top)
+## [Ir a PS](#3-htop)
 
 ---
 
