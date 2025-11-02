@@ -8,7 +8,7 @@
 
 ---
 
-## [1. `PS`](#índice)
+## 1. [`PS`](#índice)
 
 - `ps` -> Muestra la información de los procesos activos.
 - `ps au` -> Muestra procesos de todos los usuarios en formato extendido.
@@ -29,7 +29,7 @@
 
 ---
 
-## [2. `TOP`](#índice)
+## 2. [`TOP`](#índice)
 
 - `top` -> Proporciona una vista en tiempo real de los procesos que más recursos consumen (CPU y memoria).
 
@@ -41,7 +41,7 @@
 
 ---
 
-## [3. `HTOP`](#índice)
+## 3. [`HTOP`](#índice)
 
 - `htop` -> Versión mejorada de top, con interfaz visual y funciones adicionales, como desplazamiento y filtrado de procesos.
 
