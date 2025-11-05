@@ -5,6 +5,7 @@
 ### [Ir a comando PS](#1-ps)
 ### [Ir a comando TOP](#2-top)
 ### [Ir a comando HTOP](#3-htop)
+### [Ir a comando ATOP](#4-htop)
 
 ---
 
@@ -46,5 +47,13 @@
 - `htop` -> Versión mejorada de top, con interfaz visual y funciones adicionales, como desplazamiento y filtrado de procesos.
 
 <p align="center"><img src="img/htop.png" alt="htop" width="850" height="400"></p>
+
+---
+
+## 4. [`ATOP`](#índice)
+
+- `htop` -> Registra y muestra la actividad detallada de todos los procesos del servidor.
+
+<p align="center"><img src="img/atop.png" alt="atop" width="850" height="400"></p>
 
 ---
