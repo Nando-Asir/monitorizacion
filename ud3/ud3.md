@@ -2,10 +2,6 @@
 
 ---
 
-imagen
-
----
-
 ### Índice
 ### [Ir a comando TCPDUMP](#1-tcpdump)
 ### [Ir a comando TCPTRACK](#2-tcptrack)
