@@ -1,4 +1,9 @@
 # [UNIDAD 2. MEMORIA, ESPACIO Y RENDIMIENTO EN DISCO](../README.md)
+
+---
+
+imagen
+
 ---
 
 ## Índice
