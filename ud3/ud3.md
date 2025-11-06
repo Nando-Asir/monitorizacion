@@ -51,4 +51,6 @@
 
 ---
 
-### [Unidad 2 <- Anterior](--/ud2/ud2.md) | [Siguiente -> Unidad 4](../ud4/ud4.md)
+<div style="text-align: center;">
+### [Unidad 2 <- Anterior](../ud2/ud2.md) | [Siguiente -> Unidad 4](../ud4/ud4.md)
+</div>
