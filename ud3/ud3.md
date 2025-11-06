@@ -1,4 +1,4 @@
-# [UNIDAD 3. TRÁFICO DE LA RED](../README.md)
+## [UNIDAD 3. TRÁFICO DE LA RED](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@ imagen
 
 ---
 
-## Índice
+### Índice
 ### [Ir a comando TCPDUMP](#1-tcpdump)
 ### [Ir a comando TCPTRACK](#2-tcptrack)
 ### [Ir a comando IPTRAF](#3-iptraf)
@@ -14,7 +14,7 @@ imagen
 
 ---
 
-## 1. [`TCPDUMP`](#índice)
+### 1. [`TCPDUMP`](#índice)
 
 - `tcpdump` -> Realiza un análisis del tráfico de la red en tiempo real los paquetes transmitidos y recibidos. Se conoce como **sniffing**.
 
@@ -22,7 +22,7 @@ imagen
 
 ---
 
-## 2. [`TCPTRACK`](#índice)
+### 2. [`TCPTRACK`](#índice)
 
 - `tcptrack -i <nombre_adaptador>` -> Monitorea las conexiones TCP establecidas en tiempo real indicando una interfaz de red específica.
 
@@ -34,7 +34,7 @@ imagen
 
 ---
 
-## 3. [`IPTRAF`](#índice)
+### 3. [`IPTRAF`](#índice)
 
 - `iptraf` -> Monitorea estadísticas y tráfico de red en una interfaz interactiva organizando la información de manera clara y detallada.
 
@@ -46,7 +46,7 @@ imagen
 
 ---
 
-## 4. [`BMON`](#índice)
+### 4. [`BMON`](#índice)
 
 - `bmon` -> **Bandwidth Monitor** -> Permite monitorizar y depurar estadística de red en tiempo real con el uso de ancho de banda.
 - En el resultado podemos *seleccionar* la interfaz de red que queremos ver en la parte inferior y así poder observar el tráfico que ha tenido tanto **trasmitido**, como **recibido**.
