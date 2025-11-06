@@ -55,5 +55,3 @@
 - `htop` -> Registra y muestra la actividad detallada de todos los procesos del servidor.
 
 <p align="center"><img src="img/atop.png" alt="atop" width="850" height="400"></p>
-
----
