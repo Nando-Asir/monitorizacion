@@ -1,4 +1,4 @@
-# [UNIDAD 2. MEMORIA, ESPACIO Y RENDIMIENTO EN DISCO](../README.md)
+## [UNIDAD 2. MEMORIA, ESPACIO Y RENDIMIENTO EN DISCO](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@ imagen
 
 ---
 
-## Índice
+### Índice
 ### [Ir a comando FREE](#1-free)
 ### [Ir a comando DF](#2-df)
 ### [Ir a comando DU](#3-du)
@@ -14,7 +14,7 @@ imagen
 
 ---
 
-## 1. [`FREE`](#índice)
+### 1. [`FREE`](#índice)
 
 - `free` -> Muestra la cantidad de memoria física y de intercambio libre y utilizada por el sistema.
 - `free -h` -> Muestra la cantidad de memoria utilizada por el sistema transformadas a unidades legibles para humanos (GB, MB, KB...).
@@ -28,7 +28,7 @@ imagen
 
 ---
 
-## 2. [`DF`](#índice)
+### 2. [`DF`](#índice)
 
 - `df -h` -> Muestra la información del espacio libre y utilizado del disco con un formato legible para los humanos.
 
@@ -36,7 +36,7 @@ imagen
 
 ---
 
-## 3. [`DU`](#índice)
+### 3. [`DU`](#índice)
 
 - `du -hs` -> Muestra el total del espacio utilizado por los archivos y directorios en un formato legible para los humanos.
 - `du -hs /` -> Muestra el tamaño total del directorio raíz en formato legible.
@@ -47,7 +47,7 @@ imagen
 
 ---
 
-## 4. [`IOSTAT`](#índice)
+### 4. [`IOSTAT`](#índice)
 
 - `iostat -x <nombre_disco>` -> Muestra las estadísticas de entrada/salida de disco en un formato extendido de las métricas.
 
