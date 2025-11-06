@@ -1,4 +1,4 @@
-# [UNIDAD 4. PUERTOS](../README.md)
+## [UNIDAD 4. PUERTOS](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@ imagen
 
 ---
 
-## Índice
+### Índice
 ### [Ir a comando SS](#1-ss)
 ### [Ir a comando NMAP](#2-nmap)
 ### [Ir a comando ARP](#3-arp)
@@ -14,11 +14,11 @@ imagen
 
 ---
 
-## 1. [`SS`](#índice)
+### 1. [`SS`](#índice)
 
 - `ss` -> Es una herramienta moderna que inspecciona y muestra información detallada sobre las conexiones de red. Útil para ver los **puertos**, **conexiones activas** y estadísticas **TCP/UDP**.
 
-### Tabla de Opciones
+#### Tabla de Opciones
 
 | Opción | Significado | Función |
 |--------|-------------|---------|
@@ -40,7 +40,7 @@ imagen
 
 ---
 
-## 2. [`NMAP`](#índice)
+### 2. [`NMAP`](#índice)
 
 - `nmap` -> Es una herramienta que explora las redes y audita la seguridad en la que se pueden **escanear puertos**, **descubrir hosts**, **sistemas operativos**, etc.
 - `nmap -sn <IP>` -> Es el comando utilizado para el escaneo de host o escaneo "rápido" como un ping, para ver que hosts están activos (UP).
@@ -53,7 +53,7 @@ imagen
 
 ---
 
-## 3. [`ARP`](#índice)
+### 3. [`ARP`](#índice)
 
 - `arp` -> Es una utilidad utilizada para visualizar y modificar la tabla de caché ARP.
 - `arp -a` -> Muestra el contenido completo de la tabla ARP del sistema. Nos da la información de la IP y de la MAC de los dispositivos comunicados con nuestra máquina.
@@ -66,7 +66,7 @@ imagen
 
 ---
 
-## 4. [`WHOIS`](#índice)
+### 4. [`WHOIS`](#índice)
 
 - `whois <IP>` -> Consulta bases de datos públicas para obtener la información de registro sobre una IP o un nombre de dominio.
 
