@@ -2,10 +2,6 @@
 
 ---
 
-imagen
-
----
-
 ### Índice
 ### [Ir a comando FREE](#1-free)
 ### [Ir a comando DF](#2-df)
