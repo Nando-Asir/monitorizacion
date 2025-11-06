@@ -30,7 +30,7 @@
 
 ---
 
-## 2. [`TOP`](#índice)
+### 2. [`TOP`](#índice)
 
 - `top` -> Proporciona una vista en tiempo real de los procesos que más recursos consumen (CPU y memoria).
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 3. [`HTOP`](#índice)
+### 3. [`HTOP`](#índice)
 
 - `htop` -> Versión mejorada de top, con interfaz visual y funciones adicionales, como desplazamiento y filtrado de procesos.
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 4. [`ATOP`](#índice)
+### 4. [`ATOP`](#índice)
 
 - `htop` -> Registra y muestra la actividad detallada de todos los procesos del servidor.
 
