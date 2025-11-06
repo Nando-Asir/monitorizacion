@@ -26,7 +26,7 @@ imagen
 
 - `tcptrack -i <nombre_adaptador>` -> Monitorea las conexiones TCP establecidas en tiempo real indicando una interfaz de red específica.
 
-<p align="center"><img src="img/tcptrack.png" alt="tcptrack" width="850" height="400"></p>
+<p align="center"><img src="img/tcpTrack.png" alt="tcptrack" width="850" height="400"></p>
 
 - En el resultado observamos la **IP local**, la **IP server**, el **estado**, **tiempo** que lleva establecida y la **velocidad**.
 
