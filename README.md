@@ -2,7 +2,7 @@
 
 ---
 
-imagen
+<p align="center"><img src="img/monitorozacion.jpg" alt="cpd" width="850" height="400"></p>
 
 --- 
 
