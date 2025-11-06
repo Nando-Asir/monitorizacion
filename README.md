@@ -1,4 +1,4 @@
-# 🖥️ Monitorización 🖥️
+<h1 align="center"> 🖥️ Monitorización 🖥️ </h1>
 
 ---
 
