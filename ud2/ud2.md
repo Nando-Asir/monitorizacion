@@ -45,4 +45,4 @@
 
 - `iostat -x <nombre_disco>` ->
 
-<p align="center"><img src="img/iostat-x_sd5.png" alt="iostat" width="850" height="400"></p>
+<p align="center"><img src="img/iostat-x_sda5.png" alt="iostat" width="850" height="400"></p>
