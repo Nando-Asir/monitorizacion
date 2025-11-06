@@ -2,10 +2,6 @@
 
 ---
 
-imagen
-
----
-
 ### Índice
 ### [Ir a comando SS](#1-ss)
 ### [Ir a comando NMAP](#2-nmap)
