@@ -48,7 +48,7 @@ imagen
 
 ## 4. [`BMON`](#índice)
 
-- `bmon` -> Permite monitorizar y depurar estadística de red en tiempo real.
+- `bmon` -> **Bandwidth Monitor** -> Permite monitorizar y depurar estadística de red en tiempo real con el uso de ancho de banda.
 - En el resultado podemos *seleccionar* la interfaz de red que queremos ver en la parte inferior y así poder observar el tráfico que ha tenido tanto **trasmitido**, como **recibido**.
 
 <p align="center"><img src="img/resultadoBmon.png" alt="bmon" width="850" height="400"></p>
