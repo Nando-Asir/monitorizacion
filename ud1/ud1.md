@@ -1,7 +1,7 @@
-# [UNIDAD 1. PROCESOS](../README.md)
+## [UNIDAD 1. PROCESOS](../README.md)
 ---
 
-## Índice
+### Índice
 ### [Ir a comando PS](#1-ps)
 ### [Ir a comando TOP](#2-top)
 ### [Ir a comando HTOP](#3-htop)
@@ -9,7 +9,7 @@
 
 ---
 
-## 1. [`PS`](#índice)
+### 1. [`PS`](#índice)
 
 - `ps` -> Muestra la información de los procesos activos.
 - `ps au` -> Muestra procesos de todos los usuarios en formato extendido.
